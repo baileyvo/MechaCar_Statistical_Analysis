@@ -50,3 +50,10 @@ By lot, the t-test results were as follow:
 ![Lot3 t-test](https://github.com/baileyvo/MechaCar_Statistical_Analysis/blob/main/Images/lot3_ttest.PNG)
 
 **Lot 3** had a true sample mean of 1496.14 and a p-value of 0.04, therefore there is a statistical difference between the observed sample mean and the presumed population mean of 1500.
+
+## Study Design: MechaCar vs Competition
+With rising gas prices, one metric that may be of interest to consumers would be highway fuel efficiency. 
+
+To test this metric, MechaCar's highway fuel efficiency would need to be compared to competitor's vehicles in the same vehicle class. The null hypothesis would be that MechaCar's prototypes' average highway fuel efficiency is similar to competitor's vehicles in the same vehicle class. The alternate hypothesis would be that the prototypes' average highway fuel efficiency is above or below the competitor's.
+
+This statistical analysis would require a two-sample t-test, and would require gathering data from MechaCar and competitors on highway fuel efficiency.
