@@ -22,6 +22,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
 This information was gathered in the following analysis:
 
 Total Summary- looking at all manufacturing lots
+
 ![total_summary](https://github.com/baileyvo/MechaCar_Statistical_Analysis/blob/main/Images/Total_Summary.PNG)
 
 Lot Summary- looking at each lot individually
