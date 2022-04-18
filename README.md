@@ -34,16 +34,16 @@ Overall, the total variance is below 100 psi at 62.29356. When looking by lot th
 ## T-Tests on Suspension Coils
 Across all manufacturing lots, the t-test results were as follows:
 
-![total t-test](link goes here)
+![total t-test](https://github.com/baileyvo/MechaCar_Statistical_Analysis/blob/main/Images/total_ttest.PNG)
 Here, it can be seen that the true mean of the sample is 1498.78, with a p-value of 0.06, whish means the mean is statistically similar to the presumed population mean of 1500.
 
 By lot, the t-test results were as follow:
 
-![Lot1 t-test](link goes here)
+![Lot1 t-test](https://github.com/baileyvo/MechaCar_Statistical_Analysis/blob/main/Images/lot1_ttest.PNG)
 Lot 1 had a true sample mean of 1500 and a p-value of 1, therefore there is no statistical difference between the observed sample mean and the presumed population mean of 1500.
 
-![Lot2 t-test](link goes here)
+![Lot2 t-test](https://github.com/baileyvo/MechaCar_Statistical_Analysis/blob/main/Images/lot2_ttest.PNG)
 Lot 2 had a true sample mean of 1500.02 and a p-value of 0.61, therefore there is no statistical difference between the observed sample mean and the presumed population mean of 1500.
 
-![Lot3 t-test](link goes here)
+![Lot3 t-test](https://github.com/baileyvo/MechaCar_Statistical_Analysis/blob/main/Images/lot3_ttest.PNG)
 Lot 3 had a true sample mean of 1496.14 and a p-value of 0.04, therefore there is a statistical difference between the observed sample mean and the presumed population mean of 1500.
