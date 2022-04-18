@@ -24,6 +24,7 @@ Total Summary- looking at all manufacturing lots
 ![total_summary](https://github.com/baileyvo/MechaCar_Statistical_Analysis/blob/main/Images/Total_Summary.PNG)
 
 Lot Summary- looking at each lot individually
+
 ![lot_summary](https://github.com/baileyvo/MechaCar_Statistical_Analysis/blob/main/Images/Lot_Summary.PNG)
 
 Overall, the total variance is below 100 psi at 62.29356. When looking by lot though, Lot 1 and Lot 2 are well below the required varaince, however Lot 3 exceeds it, at 170.2861224.
