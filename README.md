@@ -12,7 +12,7 @@ The following image shows the output of the linear regression of the MechaCar_mp
 ![Deliverable_1](link goes here)
 
 According to this linear regression:
-- **Vehicle length** and **vehicle ground clearance** are providing a non-random amoung of variance to the mpg values.
+- **Vehicle length** and **vehicle ground clearance** are providing a non-random amount of variance to the mpg values.
 - With a p-Value of 5.35e-11, the slope of the linear model is considered to be not zero, because the assumed significance level is 0.05%, which the p-value is much smaller than.
 - The R-squared value is 0.7149, meaning this linear model predicts mpg of MechaCar prototypes effectively, predicting about 71%.
 
