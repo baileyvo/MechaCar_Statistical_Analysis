@@ -16,3 +16,5 @@ According to this linear regression:
 - With a p-Value of 5.35e-11, the slope of the linear model is considered to be not zero, because the assumed significance level is 0.05%, which the p-value is much smaller than.
 - The R-squared value is 0.7149, meaning this linear model predicts mpg of MechaCar prototypes effectively, predicting about 71%.
 
+## Summary Statistics on Suspension Coils
+The design spedifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. 
